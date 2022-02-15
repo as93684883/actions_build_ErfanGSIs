@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.2.0.OADCNXM/miui_MINote2_V11.0.2.0.OADCNXM_7224e431a4_8.0.zip
+  ROM_URL: http://bigota.d.miui.com/V11.0.2.0.OADCNXM/miui_MINote2_V11.0.2.0.OADCNXM_7224e431a4_8.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
